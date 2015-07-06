@@ -1,0 +1,25 @@
+When you have a spare moment . . .
+
+clone or pull https://git.marketshare.com:8443/scm/des/ms_prototype.git
+
+1) copy user_folders/ms-challenge to your own user_foler
+2) cd to user_folders/<user name>/ms-challenge
+3) from the command line run "npm install"
+4) from the command line run "bower install"
+5) from the command line run "Grunt serve"
+
+- After running Grunt serve, a new browser window should spawn with the test runner
+
+6) open file test/scripts/problem_3.js
+
+- Complete the challenge
+- Every save will refresh the test runner
+
+7) write function which pass all tests
+
+Please commit your files and email me back about two things:
+
+1)	How did the test install (steps 1-5)?
+2)	How did you find the test overall (step 7)?
+
+Thanks
